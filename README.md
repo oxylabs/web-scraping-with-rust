@@ -1,6 +1,6 @@
 # Web Scraping with Rust
 
-[![Oxylabs promo code](https://raw.githubusercontent.com/oxylabs/product-integrations/refs/heads/master/Affiliate-Universal-1090x275.png)](https://oxylabs.io/pages/gitoxy?utm_source=877&utm_medium=affiliate&groupid=877&utm_content=web-scraping-with-rust-github&transaction_id=102f49063ab94276ae8f116d224b67)
+[![Oxylabs promo code](https://raw.githubusercontent.com/oxylabs/product-integrations/refs/heads/master/Affiliate-Universal-1090x275.png)](https://oxylabs.io/pages/gitoxy?utm_source=github&utm_medium=referral&utm_content=web-scraping-with-rust&utm_campaign=banner&groupid=877)
 
 <p align="left">
   <a href="https://dashboard.oxylabs.io"><img src="https://img.shields.io/badge/%F0%9F%9A%80_Get_Started-FF6B35?style=for-the-badge" alt="Get started"></a>
@@ -28,7 +28,7 @@ It doesn't mean that scraping with Rust is not possible or extremely hard. Scrap
 
 This article will guide you an overview of the process of writing a fast and efficient Rust web scraper.
 
-For a detailed explanation, [see this blog post](https://oxylabs.io/blog/rust-web-scraping).
+For a detailed explanation, [see this blog post](https://oxylabs.io/blog/rust-web-scraping?utm_source=github&utm_medium=referral&utm_content=web-scraping-with-rust&groupid=877).
 
 ## Installing and running Rust
 
@@ -175,4 +175,4 @@ Enter the following command to run the code:
 $ cargo run
 ```
 
-If you wish to find out more about web scraping with Rust, see our [blog post](https://oxylabs.io/blog/rust-web-scraping).
+If you wish to find out more about web scraping with Rust, see our [blog post](https://oxylabs.io/blog/rust-web-scraping?utm_source=github&utm_medium=referral&utm_content=web-scraping-with-rust&groupid=877).
